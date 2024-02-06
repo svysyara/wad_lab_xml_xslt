@@ -79,4 +79,46 @@
         <quantity>500g</quantity>
         <price>₹150</price>
     </product>
+        <product>
+        <brand>Natural Essence</brand>
+        <name>Bamboo Fiber Dishcloths</name>
+        <quantity>3Pc</quantity>
+        <price>₹90</price>
+    </product>
+    <product>
+        <brand>Leafy Greens</brand>
+        <name>Biodegradable Plant Pots</name>
+        <quantity>12Pc</quantity>
+        <price>₹120</price>
+    </product>
+    <product>
+        <brand>Earth's Embrace</brand>
+        <name>Reusable Silicone Food Wraps</name>
+        <quantity>4Pc</quantity>
+        <price>₹200</price>
+    </product>
+    <product>
+        <brand>BioFresh</brand>
+        <name>Compostable Trash Bags</name>
+        <quantity>30 Bags</quantity>
+        <price>₹150</price>
+    </product>
+    <product>
+        <brand>Green Horizon</brand>
+        <name>Recycled PET Yoga Mat</name>
+        <quantity>1Pc</quantity>
+        <price>₹250</price>
+    </product>
+    <product>
+        <brand>Organic Harvest</brand>
+        <name>Natural Beeswax Wraps</name>
+        <quantity>3 Sheets</quantity>
+        <price>₹100</price>
+    </product>
+    <product>
+        <brand>Earth's Finest</brand>
+        <name>Biodegradable Bamboo Cotton Swabs</name>
+        <quantity>200Pc</quantity>
+        <price>₹80</price>
+    </product>    
 </product_details>
