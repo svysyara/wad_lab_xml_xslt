@@ -1,0 +1,82 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type="text/xsl" href="Catalogue_Database.xsl"?>
+<product_details>
+    <product>
+        <brand>BECO</brand>
+        <name>Bamboo Toothbrush</name>
+        <quantity>1Pc</quantity>
+        <price>₹30</price>
+    </product>
+    <product>
+        <brand>Teeth-a-bit</brand>
+        <name>Tooth Bites</name>
+        <quantity>1 X (60 count)</quantity>
+        <price>₹120</price>
+    </product>
+    <product>
+        <brand>ZARA</brand>
+        <name>Jute Bag</name>
+        <quantity>2Pc</quantity>
+        <price>₹300</price>
+    </product>
+    <product>
+        <brand>Green Life</brand>
+        <name>Reusable Glass Water Bottle</name>
+        <quantity>1Pc</quantity>
+        <price>₹200</price>
+    </product>
+    <product>
+        <brand>Nature's Touch</brand>
+        <name>Organic Cotton Towels</name>
+        <quantity>4Pc</quantity>
+        <price>₹500</price>
+    </product>
+    <product>
+        <brand>Earthly Delights</brand>
+        <name>Biodegradable Straws</name>
+        <quantity>50Pc</quantity>
+        <price>₹50</price>
+    </product>
+    <product>
+        <brand>Green Earth</brand>
+        <name>Recycled Paper Notebook</name>
+        <quantity>1Pc</quantity>
+        <price>₹100</price>
+    </product>
+    <product>
+        <brand>Eco Nest</brand>
+        <name>Bamboo Cutlery Set</name>
+        <quantity>1 Set</quantity>
+        <price>₹150</price>
+    </product>
+    <product>
+        <brand>Natural Ways</brand>
+        <name>Organic Cotton Tote Bag</name>
+        <quantity>1Pc</quantity>
+        <price>₹80</price>
+    </product>
+    <product>
+        <brand>Green Grove</brand>
+        <name>Compostable Food Containers</name>
+        <quantity>10Pc</quantity>
+        <price>₹100</price>
+    </product>
+    <product>
+        <brand>Earth Essence</brand>
+        <name>Recycled Glass Straws</name>
+        <quantity>6Pc</quantity>
+        <price>₹80</price>
+    </product>
+    <product>
+        <brand>Bio Solutions</brand>
+        <name>Biodegradable Dish Soap</name>
+        <quantity>1 Bottle</quantity>
+        <price>₹50</price>
+    </product>
+    <product>
+        <brand>Green Sprout</brand>
+        <name>Organic Plant Fertilizer</name>
+        <quantity>500g</quantity>
+        <price>₹150</price>
+    </product>
+</product_details>
